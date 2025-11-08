@@ -3,6 +3,7 @@ import Header from './components/Header';
 import Hero from './components/Hero';
 import TemplateGallery from './components/TemplateGallery';
 import HowItWorks from './components/HowItWorks';
+import Builder from './components/Builder';
 import Footer from './components/Footer';
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
         <Hero />
         <TemplateGallery />
         <HowItWorks />
+        <Builder />
       </main>
       <Footer />
     </div>
